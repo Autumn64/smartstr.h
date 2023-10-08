@@ -15,7 +15,7 @@ int main(void){
     str_cappend(&everything, ", "); str_sappend(&everything, whatever);
 
     stats = str_new();
-    str_setvf(&stats, "Name has %zu characters, City has %zu characters, Phrase has %zu characters.\n", name.length, city. length, whatever.length);
+    str_setvf(&stats, "Name has %zu characters, City has %zu characters, Phrase has %zu characters.\n", name.length, city.length, whatever.length);
     
     printf("Hello, %s! This is the information you entered:\n", name.value);
     printf("Name: "); str_println(name);
