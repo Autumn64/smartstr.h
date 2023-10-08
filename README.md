@@ -57,4 +57,4 @@ Please read [NSSTRING.H Reference](REFERENCE.md).
 ## Extra information
 Thanks so much to all of our [contributors](https://github.com/Autumn64/nsstring.h/graphs/contributors).
 
-#### All the code in this repository is licensed under the [MIT License](MIT-LICENSE.txt). This library is meant to be distributed for non-commercial purposes, and neither this project's owner nor its contributors are responsible for the use anyone outside of it might give to the software provided and its assets.
+#### All the code in this repository is licensed under the [MIT License](LICENSE.txt). This library is meant to be distributed for non-commercial purposes, and neither this project's owner nor its contributors are responsible for the use anyone outside of it might give to the software provided and its assets.
