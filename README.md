@@ -2,7 +2,7 @@
 [![Pull requests](https://img.shields.io/badge/dynamic/json.svg?label=pull%20requests&style=for-the-badge&color=limegreen&url=https://codeberg.org/api/v1/repos/Autumn64/nsstring.h&query=open_pr_counter)](https://codeberg.org/Autumn64/nsstring.h/pulls)
 [![Issues](https://img.shields.io/badge/dynamic/json.svg?label=issues&style=for-the-badge&color=red&url=https://codeberg.org/api/v1/repos/Autumn64/nsstring.h&query=open_issues_count)](https://codeberg.org/Autumn64/nsstring.h/issues)
 [![Stars](https://img.shields.io/badge/dynamic/json.svg?label=stars&style=for-the-badge&color=yellow&url=https://codeberg.org/api/v1/repos/Autumn64/nsstring.h&query=stars_count)](https://codeberg.org/Autumn64/nsstring.h)
-[![License](https://img.shields.io/badge/license-MIT-blue?label=license&style=for-the-badge&url=)](https://codeberg.org/Autumn64/nsstring.h/src/branch/main/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-LGPL_v3-blue?label=license&style=for-the-badge&url=)](https://codeberg.org/Autumn64/nsstring.h/src/branch/main/LICENSE.txt)
 ## A free, open-source, simple, memory-safe and lightweight Strings library for C.
 
 ## Description
