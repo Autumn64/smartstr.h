@@ -6,7 +6,7 @@
 ## A free, open-source, simple, memory-safe and lightweight Strings library for C.
 
 ## Description
-SMARTSTR.H is a library that provides an interface to work with text strings as in common high-level programming languages. SMARTSTR.H stands for "Non-Standard Strings Header"
+SMARTSTR.H is a library that provides an interface to work with text strings as in common high-level programming languages. SMARTSTR.H stands for "SMART Strings Header file"
 
 ## Features
 - Fast and efficient.
@@ -52,7 +52,7 @@ str_free(&str1);
 ```
 
 ## Reference
-Please read [smartstr.H Reference](REFERENCE.md).
+Please read [SMARTSTR.H Reference](REFERENCE.md).
 
 ## Extra information
 Thanks so much to all of our [contributors](https://codeberg.org/Autumn64/smartstr.h/activity/yearly).
