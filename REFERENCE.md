@@ -1,6 +1,6 @@
-# NSSTRING.H Reference
+# SMARTSTR.H Reference
 ## Compatibility
-NSSTRING.H has only been tested with GCC/MinGW. It only uses the standard C library ([libc](https://en.wikipedia.org/wiki/C_standard_library)), and it should work on any C versions after C99. If you find compatibility issues with a specific C version or compiler, please open an [issue](https://github.com/Autumn64/nsstring.h/issues) or, if you prefer, contribute to the project creating a [pull request](https://github.com/Autumn64/nsstring.h/pulls).
+SMARTSTR.H has only been tested with GCC/MinGW. It only uses the standard C library ([libc](https://en.wikipedia.org/wiki/C_standard_library)), and it should work on any C versions after C99. If you find compatibility issues with a specific C version or compiler, please open an [issue](https://codeberg.org/Autumn64/smartstr.h/issues) or, if you prefer, contribute to the project creating a [pull request](https://codeberg.org/Autumn64/smartstr.h/pulls).
 ## Macros
 ```c
 #define STR_SUCCESS 0
@@ -144,7 +144,7 @@ Returns the character at the specified position from the specified String as a `
 ## Example code
 ```c
 #include <stdio.h>
-#include <nsstring.h>
+#include "smartstr.h"
 
 int main(void){
     String name, city, whatever, everything, stats;

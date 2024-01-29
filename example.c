@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <nsstring.h>
+#include "smartstr.h"
 
 int main(void){
     String name, city, whatever, everything, stats;
