@@ -74,6 +74,7 @@ void str_fprintln(String str, FILE *stream){
 }
 
 int str_readln(String *str, FILE *stream){
+	str_free(str);
 	char *line = NULL, *tmp = NULL;
 	size_t size = 1, index = 0;
 	int ch = EOF;
